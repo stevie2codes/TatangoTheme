@@ -1,0 +1,21 @@
+{
+    "name": "TatangoTheme",
+    "displayName": "TatangoTheme",
+    "description": "A theme based on tatango design",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TatangoTheme",
+                "uiTheme": "hc-black",
+                "path": "./themes/TatangoTheme-color-theme.json"
+            }
+        ]
+    }
+}
