@@ -1,6 +1,6 @@
 {
   "name": "tatanglow",
-  "displayName": "TatangoTheme",
+  "displayName": "TatangoTheme[unofficial]",
   "description": "A theme based on tatango design",
   "publisher": "TheWebDev",
   "version": "0.0.1",
@@ -14,6 +14,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "TangoIcon.png",
   "contributes": {
     "themes": [
       {
