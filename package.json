@@ -7,6 +7,10 @@
   "engines": {
     "vscode": "^1.59.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stevie2codes/TatangoTheme.git"
+  },
   "categories": [
     "Themes"
   ],
