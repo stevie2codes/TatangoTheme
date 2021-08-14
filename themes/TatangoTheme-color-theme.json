@@ -13,7 +13,9 @@
         "titleBar.border": "#000",
         "titleBar.activeForeground": "#d14414",
         "icon.foreground": "#d14414",
-        
+        "selection.background": "#FFF5E3",
+		"sash.hoverBorder": "#d14414",
+
     
         //activity bar colors
         "activityBarBadge.foreground":"#FFF5E3",
@@ -38,7 +40,7 @@
         "tab.activeBorder": "#d14414",
         "tab.unfocusedActiveBorder": "#212121",
         "tab.activeModifiedBorder": "#212121",
-        "tab.unfocusedActiveBackground": "#FFF",
+        "tab.unfocusedActiveBackground": "#111",
         "tab.inactiveForeground": "#9b9b9b",
         "tab.unfocusedHoverForeground": "#FFF",
         "tab.inactiveBackground": "#212121",
@@ -47,6 +49,7 @@
         "tab.unfocusedInactiveBackground": "#212121",
         "tab.unfocusedInactiveForeground": "#9b9b9b",
         "tab.unfocusedHoverBackground": "#111",
+		
         
         
         
@@ -68,7 +71,9 @@
         "list.activeSelectionForeground": "#D14414",
         "list.activeSelectionIconForeground": "#D14414",
         "list.dropBackground": "#d14414",
+		"list.focusHighlightForeground": "#FFF5e3",
         "list.highlightForeground": "#d14414",
+		
         
 
         //button styles
@@ -91,12 +96,12 @@
         
         //editor styles
         "editorLightBulb.foreground": "#E8C547",
-        "editor.lineHighlightBackground": "#181818",
-        "editor.selectionBackground": "#d1441433",
-        "editor.selectionForeground": "#E8C547",
+        "editor.lineHighlightBackground": "#1a1a1a",
+        "editor.selectionBackground": "#47c8e86c",
+        "editor.selectionForeground": "#fff",
         "editorCursor.foreground": "#d14414",
         "editorGroupHeader.border": "#111",
-        "editorLineNumber.foreground": "#CDD1C4",
+        "editorLineNumber.foreground": "#FFF5e3",
         "editorLineNumber.activeForeground": "#d14114",
 
         //widget styles
@@ -110,12 +115,14 @@
         "scrollbarSlider.background": "#d1441433",
         "scrollbarSlider.hoverBackground": "#d1441466",
         "scrollbarSlider.activeBackground": "#d1441486",
+		
 
         //status bar styles 
         "statusBar.background": "#FFF5E3",
         "statusBar.noFolderBackground" : "#FFF5E3",
-        "statusBar.debuggingBackground": "#263238",
+        "statusBar.debuggingBackground": "#FFF5E3",
         "statusBar.foreground": "#D14414",
+		"statusBar.border": "#f08561",
 
         //panel styles
         "panel.background": "#121212",
@@ -130,6 +137,8 @@
         "symbolIcon.folderForeground": "#fff",
         "statusBar.noFolderBorder": "#212121",
         "editorHoverWidget.border": "#000",
+
+		
         
 	
 	},
@@ -276,7 +285,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#EEE5E9"
+				"foreground": "#e0b4fd"
 			}
 		},
 		{
