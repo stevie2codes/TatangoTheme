@@ -1,8 +1,15 @@
 {
     "workbench.colorCustomizations": {
     	
-    }
+    },
+
+    "[markdown]": {
+        "editor.quickSuggestions": {
+          "other": true,
+          "comments": true,
+          "strings": true,
+        }
+      }
 }
 
 
- 

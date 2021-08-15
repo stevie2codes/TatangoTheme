@@ -1,24 +1,24 @@
 {
-  "name": "tatanglow",
-  "displayName": "TatangoTheme[unofficial]",
-  "description": "A theme based on tatango design",
+  "name": "nutheme",
+  "displayName": "NuTheme",
+  "description": "A dark theme With some style",
   "publisher": "TheWebDev",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.59.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/stevie2codes/TatangoTheme.git"
+    "url": "https://github.com/stevie2codes/TatangoTheme"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "TangoIcon.png",
+  "icon": "nuTheme.png",
   "contributes": {
     "themes": [
       {
-        "label": "TatangoTheme",
+        "label": "nuTheme",
         "uiTheme": "hc-black",
         "path": "./themes/TatangoTheme-color-theme.json"
       }

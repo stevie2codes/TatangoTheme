@@ -1,9 +1,16 @@
 # Change Log
 
-All notable changes to the "TatangoTheme" extension will be documented in this file.
+## [0.0.3] - 2014-08-09
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added
+
+- New highlight colors
+- bracket Pair border
+- input fields color changes
+- settings page updated
+- many more color changes
+- name change
 
 ## [Unreleased]
 
-- Initial release
+- Light mode
