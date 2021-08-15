@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.0.3] - 2014-08-09
+## [0.0.3] - 2021-08-15
 
 ### Added
 
@@ -10,6 +10,12 @@
 - settings page updated
 - many more color changes
 - name change
+
+## [0.0.4] - 2021-08-15
+
+### Added
+
+- Extention logo update
 
 ## [Unreleased]
 
