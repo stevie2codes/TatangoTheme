@@ -1,9 +1,9 @@
 {
   "name": "nutheme",
   "displayName": "NuTheme",
-  "description": "A dark theme With some style",
+  "description": "A beautifl dark theme with hints of awesome ",
   "publisher": "TheWebDev",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.59.0"
   },

@@ -1,6 +1,8 @@
-# TatangoTheme[Unofficial]
+# NuTheme
 
-### Soft release of a dark theme losely based on the Tatango color scheme.
+### A beautifl dark theme with hints of awesome.
+
+**Just give it a shot, you may like it... or dont**
 
 [![vsm-installs](https://img.shields.io/visual-studio-marketplace/i/thewebdev.tatanglow?style=flat-square&label=installs&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=thewebdev.NuTheme)
 [![vsm-rating](https://img.shields.io/visual-studio-marketplace/r/thewebdev.NuTheme?style=flat-square&label=rating&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=thewebdev.NuTheme)
@@ -12,7 +14,8 @@
 **React Preview**
 ![React Preview](ReactImage.png)
 
-### Updates incoming
+### Coming Soon...ish ### (don't pressure me)
 
-- Enhancments across theme
-- Light Mode!? 'If your'e into that kind of thing'
+- Whatever bugs me will change at somepoint
+- More ScreenShots for your viewing pleasure.
+- Light Mode will happen once im happy with the dark theme.
