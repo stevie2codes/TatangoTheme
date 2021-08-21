@@ -9,8 +9,6 @@
 [![vsm-version](https://img.shields.io/visual-studio-marketplace/v/thewebdev.NuTheme?style=flat-square&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=thewebdev.NuTheme)
 [![vsm-downloads](https://img.shields.io/visual-studio-marketplace/d/thewebdev.NuTheme?style=flat-square&label=downloads&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=thewebdev.NuTheme)
 
-[GitHub Repo](https://github.com/stevie2codes/TatangoTheme)
-
 **React Preview**
 ![React Preview](ReactImage.png)
 

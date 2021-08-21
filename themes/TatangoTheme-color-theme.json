@@ -99,10 +99,11 @@
         "foreground": "#FFF5E3",
 		//input
         "input.foreground": "#FFF5e3",
-        "input.placeholderForeground": "#eeeeee",
-        "input.border": "#ffffff00",
+        "input.placeholderForeground": "#c7c7c7",
+        "input.border": "#363636",
         "input.background": "#d1431402",
         "inputOption.activeBorder": "#212121",
+		 
 		
 		
 		
@@ -112,16 +113,16 @@
 		"editor.background": "#1D1F21",
         "editor.foreground": "#FFF",
         "editorLightBulb.foreground": "#E8C547",
-        "editor.lineHighlightBackground": "#1a1a1a",
+        "editor.lineHighlightBackground": "#2a2a2a",
         "editor.selectionBackground": "#47c8e86c",
         "editor.selectionForeground": "#fff",
 		"editor.lineHighlightBorder": "#313131",
         "editorCursor.foreground": "#d14414",
         "editorGroupHeader.border": "#1D1F21",
-		"editorGroup.border": "#ff0000",
+		"editorGroup.border": "#313131",
         "editorLineNumber.foreground": "#FFF5e3",
         "editorLineNumber.activeForeground": "#d14114",
-		"editorGroupHeader.tabsBorder": "#212121",
+		"editorGroupHeader.tabsBorder": "#363636",
 		"editor.findMatchHighlightBackground": "#75d3ff7e",
 		"editor.findMatchBackground": "#75d3ff7e",
 		"editorBracketMatch.border":"#ff660078",
@@ -297,7 +298,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#ffbb00"
+				"foreground": "#ffa12d"
 			}
 		},
 		{
