@@ -1,15 +1,28 @@
 {
   "name": "nutheme",
   "displayName": "NuTheme",
-  "description": "A beautifl dark theme with hints of awesome ",
+  "description": "A beautiful dark theme with hints of awesome ",
   "publisher": "TheWebDev",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.59.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/stevie2codes/TatangoTheme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Orange Theme",
+    "Tatango Theme",
+    "black and white",
+    "Best theme",
+    "Accessible Theme"
+  ],
+  "galleryBanner": {
+    "color": "#d14414",
+    "theme": "dark"
   },
   "categories": [
     "Themes"

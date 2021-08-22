@@ -1,6 +1,17 @@
 # Change Log
 
-## [0.1.0] - **Version 0.1.0 Realase** - 2021-08-19
+## [0.2.0]
+
+- Editor color changes
+- input field fixes
+  -border color change
+- scrollbar color change
+- active tab color
+- scroll shadow change
+- widget shadow change
+- screenshot previews / ReadME
+
+## [0.1.0] - **Version 0.1.0 Release** - 2021-08-19
 
 - Now with softer background
 - Beautiful new terminal color scheme
@@ -12,7 +23,7 @@
 
 ### Added
 
-- Extention logo update
+- Extension logo update
 
 ## [0.0.3] - 2021-08-15
 
