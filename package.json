@@ -34,6 +34,11 @@
         "label": "nuTheme",
         "uiTheme": "hc-black",
         "path": "./themes/TatangoTheme-color-theme.json"
+      },
+      {
+        "label": "nuThemeLight",
+        "uiTheme": "vs",
+        "path": "./themes/NuTheme-Light-theme.json"
       }
     ]
   }
